@@ -49,7 +49,7 @@ After adjusting for confounders and correctly modeling the zeros, the results **
 ---
 
 ## Dependencies
-* python 3.11+
+* python
 * pymc
 * arviz
 * pandas & numpy 
